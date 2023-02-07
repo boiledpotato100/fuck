@@ -3,5 +3,4 @@ echo "hello world brothe";
 
 
 ?>
-
-welcome santhosh and love you;
+not love you but like u;
